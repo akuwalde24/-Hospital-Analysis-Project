@@ -8,6 +8,7 @@ The goal is to help hospitals make **data-driven decisions** that improve servic
 ---
 
 ## 🎯 **Objective**
+
 To analyze hospital data over a period of 19 months (Apr 2023 – Oct 2024) and uncover insights related to:
 * Patient admissions and referrals
 * Satisfaction levels
@@ -28,7 +29,6 @@ To analyze hospital data over a period of 19 months (Apr 2023 – Oct 2024) and 
 
 ## 🧩 **Dashboard Pages**
 
-📄 Dashboard Pages:
 * 1️⃣ **Monthly View**
 * 2️⃣ **Consolidated View**
 * 3️⃣ **Patient Details**
@@ -37,8 +37,8 @@ To analyze hospital data over a period of 19 months (Apr 2023 – Oct 2024) and 
 
 ## 📂 **Dashboard Preview**
  Here’s a glimpse of the Power BI dashboard:
-🔗 [GitHub Repository Link Here](#)
-🔗 [LinkedIn Project Post Here](#)
+ 
+ 🔗 https://github.com/akuwalde24/-Hospital-Analysis-Project/commit/ec727137e688c64456902ae6fe79abc237a94da8
 
 ---
 
@@ -61,7 +61,8 @@ This project demonstrates how **data analytics and visualization** can improve h
 
 ## 💬 **Contact**
 
-👩‍💻 *Created by [Akanksha Walde]*
+👩‍💻 Created by:  **Akanksha Walde**
+
 🔗 LinkedIn: [https://www.linkedin.com/in/akanksha-walde-455042332]
 
 ---
